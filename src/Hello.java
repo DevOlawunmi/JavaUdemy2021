@@ -7,7 +7,12 @@ public class Hello {
        int myThirdNumber = 37;
        int myTotal = myFirstNumber+mySecondNumber+myThirdNumber;
         System.out.println(myTotal);
-        int myLastOne = myTotal-1000;
-        System.out.println(myLastOne);
+
+//Today I learnt about the concept of wrapper classes eg Integer wrapper class that lets us perform
+        //operations on int values
+        int myMaxValue = Integer.MAX_VALUE;
+        int myMinValue = Integer.MIN_VALUE;
+        System.out.println(myMaxValue);
+        System.out.println(myMinValue);
     }
 }
