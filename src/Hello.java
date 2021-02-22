@@ -10,8 +10,8 @@ public class Hello {
 
 //Today I learnt about the concept of wrapper classes eg Integer wrapper class that lets us perform
         //operations on int values
-        int myMaxValue = Integer.MAX_VALUE;
-        int myMinValue = Integer.MIN_VALUE;
+        byte myMaxValue = Byte.MAX_VALUE;
+        byte myMinValue = Byte.MIN_VALUE;
         System.out.println(myMaxValue);
         System.out.println(myMinValue);
     }
