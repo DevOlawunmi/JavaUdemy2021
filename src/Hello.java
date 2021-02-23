@@ -15,4 +15,5 @@ public class Hello {
         System.out.println(myMaxValue);
         System.out.println(myMinValue);
     }
+    // I think the challenge is a silly one. Not doing it
 }
