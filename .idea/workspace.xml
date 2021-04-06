@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc6320fc-a963-4e10-8a0c-379c7710092c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bankAccountExample/NewAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bankAccountExample/NewAccountDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calculatorExample/Calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/calculatorExample/CalcDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hello.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +29,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ogZqHB6llD3yv4KzDwxNytPCzz" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -35,7 +42,20 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.NewAccountDemo">
+    <configuration name="CalcDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="calculatorExample.CalcDemo" />
+      <module name="UdemyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="calculatorExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hello" />
       <module name="UdemyJava" />
@@ -43,8 +63,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NewAccountDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bankAccountExample.NewAccountDemo" />
+      <module name="UdemyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bankAccountExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NewAccountDemo" />
+        <item itemvalue="Application.CalcDemo" />
         <item itemvalue="Application.Hello" />
       </list>
     </recent_temporary>
@@ -100,43 +135,51 @@
       <option name="project" value="LOCAL" />
       <updated>1613995003875</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="No challenge">
+      <created>1614092020706</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1614092020706</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hello World, again" />
     <MESSAGE value="Intro material" />
     <MESSAGE value="Wrapper class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Wrapper class" />
+    <MESSAGE value="No challenge" />
+    <option name="LAST_COMMIT_MESSAGE" value="No challenge" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1613995003220">
+    <state x="424" y="8" key="CommitChangelistDialog2" timestamp="1614092019885">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1613995003220" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1613995020529">
+    <state x="424" y="8" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1614092019885" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1617712156177">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1613995020529" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1613995020529">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1617712156177" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1617712156177">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1613995020529" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1613995020529">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1617712156177" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1617712156177">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1613995020529" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1613995020529">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1617712156177" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1617712156177">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1613995020529" />
-    <state x="361" y="135" key="Vcs.Push.Dialog.v2" timestamp="1613995006243">
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1617712156177" />
+    <state x="361" y="135" key="Vcs.Push.Dialog.v2" timestamp="1614092023024">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="135" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1613995006243" />
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1614078230595">
+    <state x="361" y="135" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1614092023024" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1614154431533">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1614078230595" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1614154431533" />
   </component>
 </project>
